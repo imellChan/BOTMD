@@ -12,12 +12,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283160624440','6282279915237']
-global.premium = ['6282279915237']
-global.botname = 'Feyza Botz'
-global.ownername = 'Feyza Botz'
-global.packname = 'Feyza'
-global.author = 'WhatsApp Bot'
+global.owner = ['6281358960973','6281323865778']
+global.premium = ['6281358960973']
+global.botname = 'Tasyaa X Antboyy B O T'
+global.ownername = 'TsyaaXAntboyy'
+global.packname = 'Tsyaa'
+global.author = 'Antboyy'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
